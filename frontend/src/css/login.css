@@ -1,0 +1,19 @@
+.login-wrapper {
+	width: 600px;
+	margin: 30px auto;
+}
+
+.login-wrapper .signup-btn,
+.login-wrapper .login-btn {
+	cursor: pointer;
+	width: 300px;
+	margin: 20px auto;
+}
+
+.home-title {
+	margin-top: 100px;
+}
+
+body {
+	background-color: rgba(123, 123, 123, 0.455);
+}
